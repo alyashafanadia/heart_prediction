@@ -4,7 +4,7 @@
 title = Heart Disease Prediction
 
 # (str) Package name
-package.name = heart_disease_prediction
+package.name = HeartDiseaseApp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.heartdiseaseprediction
@@ -13,7 +13,7 @@ package.domain = org.heartdiseaseprediction
 target = android
 
 # (str) Source code where the main.py live
-source.dir = C:/Users/User
+source.dir = main.py
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
